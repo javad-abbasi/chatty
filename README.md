@@ -1,3 +1,44 @@
+🤖 Chatty – Your AI-Powered Chat Companion
+Chatty is an AI-powered mobile application built with React Native that enables users to ask any question and receive intelligent, conversational responses — just like ChatGPT. It offers a clean and intuitive interface designed for mobile users who want quick, meaningful answers powered by artificial intelligence.
+ 
+🚀 Features
+•	Natural language Q&A powered by AI
+•	Clean and responsive mobile UI (Android/iOS)
+•	Beautiful splash screen with react-native-bootsplash
+•	Push Notifications support
+•	Image picker integration
+•	Fast, real-time interaction using Axios
+ 
+📸 Screenshots
+Here are some screenshots of the Chatty app:
+<p align="center"> <img src="./screenshots/Splash.png" width="400" alt="Chatty-Splash" /> <img src="./screenshots/Empty_Chat.png" width="400" alt="Chatty Empty_Chat" /> </p> 
+ 
+🧰 Built With
+•	React Native 0.80.2
+•	Axios
+•	react-native-bootsplash
+•	react-native-vector-icons
+•	react-native-svg
+•	react-native-size-matters
+ 
+🤝 Contributing
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+To contribute:
+1.	Fork the repository
+2.	Create a new branch (git checkout -b feature-name)
+3.	Commit your changes (git commit -m 'Add feature')
+4.	Push to the branch (git push origin feature-name)
+5.	Open a Pull Request
+ 
+📬 Contact
+For support, feature requests or questions:
+📧 abbasi.sheldarreh@gmail.com
+🌐 https://javad-cv.ir
+ 
+⭐ If you found this app useful, consider giving it a star on GitHub!
+<img width="540" height="712" alt="image" src="https://github.com/user-attachments/assets/bdc2d909-9327-4425-9d90-5cc432d0d3cc" />
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
