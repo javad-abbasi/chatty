@@ -36,8 +36,7 @@ For support, feature requests or questions:
 🌐 https://javad-cv.ir
  
 ⭐ If you found this app useful, consider giving it a star on GitHub!
-<img width="540" height="712" alt="image" src="https://github.com/user-attachments/assets/bdc2d909-9327-4425-9d90-5cc432d0d3cc" />
-
+.....................................................................................................
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
