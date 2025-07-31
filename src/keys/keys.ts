@@ -1,0 +1,1 @@
+export const HUGGING_FACE_KEY ="Insert your api key here"
